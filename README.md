@@ -59,7 +59,7 @@ git version 2.34.1
 
 ``` sh
 $ go version
-go version go1.17.6 linux/amd64
+go version go1.18.5 linux/amd64
 ```
 
 ### SQLite 3
