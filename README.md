@@ -13,7 +13,7 @@ $ make
 The value will be a long string of seemingly random hexademical characters (a
 SHA256 hash of expected values from each necessary tool).
 
-You will be "graded" on the correctness of this value, verifying that you're
+You will be "graded" on the correctness of this value, verifying that your
 tool-chain is setup.
 
 ## Development Environment for Assignments and Precepts
