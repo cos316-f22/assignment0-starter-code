@@ -1,7 +1,5 @@
 # COS316, Assignment 0: Setting up the Development Environment
 
-## Due [Date TDB] at [Time TDB]
-
 In this "warmup" assignment, we you will get your development environment set up
 with the necessary language compilers, libraries, and tools to complete future
 assignments and participate in precepts. In the end, you will run a command that
@@ -32,7 +30,7 @@ Linux (WSL)[^1].
     using WSL if you are on Windows.
 
   * [Git](https://git-scm.org)
-  * [Go](https://go.dev) version 1.17
+  * [Go](https://go.dev) version 1.18
   * [SQLite](https://www.sqlite.org/index.html) version 3
   * [curl](https://curl.se)
   * [gcc/g++](https://gcc.gnu.org/) or [clang/clang++](https://clang.llvm.org/) compilers
